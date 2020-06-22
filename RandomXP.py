@@ -7,7 +7,7 @@ Created on Thu Jun 18 20:15:54 2020
 
 import os, secrets
 
-path = "./"
+path = ".//"
 #extension = ('.mp4','.wmv','.mkv','.avi','.flv')
 extension = ('jpg','jpeg','png')
 
